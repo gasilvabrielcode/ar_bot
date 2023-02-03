@@ -1,0 +1,26 @@
+#embedded_messenger {
+  position: fixed;
+  z-index: 1000;
+  bottom: -400px;
+  right: 2rem;
+  height: 434px;
+  transition: 0.5s ease-in-out bottom;
+  border-radius: 5px;
+}
+#embedded_messenger.active {
+  bottom: 0;
+}
+#embedded_messenger iframe {
+  height: 400px;
+  width: 350px;
+  border: 0;
+}
+#embedded_messenger #message_header {
+  background: #365B6D;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+}
+
+/*# sourceMappingURL=embed.css.map */

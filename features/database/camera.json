@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Vou lhe ensinar como habilitar a sua camera então!",
+    "Img": false,
+    "ImgData": {
+      "url": "www.bruh.com.br",
+      "source": "www.bru.com.br"
+    }
+  },
+  {
+    "text": "Quando você acessar pela primeira vez a aula pelo computador, a plataforma irá solicitar acesso à sua câmera.",
+    "Img": false,
+    "ImgData": {
+      "url": "www.bruh.com.br",
+      "source": "www.bru.com.br"
+    }
+  },
+  {
+    "text": "Clique em permitir igual na imagem abaixo.",
+    "Img": true,
+    "ImgData": {
+      "url": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/HABILITAR_CAMERA_SETA.png ",
+      "source": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/HABILITAR_CAMERA_SETA.png"
+    }
+  },
+  {
+    "text": "Mas caso esteja acessando pelo celular ou já clicou em permitir igual a imagem anterior é só seguir esses passos:",
+    "Img": false,
+    "ImgData": {
+      "url": "www.bruh.com.br",
+      "source": "www.bru.com.br"
+    }
+  },
+  {
+    "text": "Dentro da sala de aula no canto inferior localize o botão com um símbolo de câmera igual a imagem abaixo.",
+    "Img": true,
+    "ImgData": {
+      "url": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/CAMERA_SETA.png ",
+      "source": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/CAMERA_SETA.png "
+    }
+  },
+  {
+    "text": "Se precisar clique em permitir novamente, selecione a câmera e clique em 'Iniciar Compartilhamento'.",
+    "Img": true,
+    "ImgData": {
+      "url": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/WEBCAM_SETA.png ",
+      "source": "http://icetran.alfamaoraculo.com.br/storage/discovirtual/64/2234/WEBCAM_SETA.png r"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "botkit-ibrep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder-adapter-web": "^1.0.9",
+    "botbuilder-dialogs": "^4.14.1",
+    "botbuilder-storage-mongodb": "^0.9.5",
+    "botkit": "^4.10.0",
+    "botkit-cms": "^0.0.4",
+    "botkit-middleware-witai": "^0.0.2",
+    "botkit-plugin-cms": "^1.0.3",
+    "dotenv": "^7.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
